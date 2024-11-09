@@ -11,7 +11,7 @@ typedef struct Stack {
 
 
 void initializeStack(Stack *stack) {
-    stack->top = -1; // Set the initial top value to -1
+    stack->top = -1;
 }
 
 
